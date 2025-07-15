@@ -1,4 +1,8 @@
 #This is the local repo
 # new Feature1
+<<<<<<< HEAD
 # new feature (button)
+=======
+# new feature (list)
+>>>>>>> feature1
 
